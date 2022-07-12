@@ -1,4 +1,9 @@
-line 1
-line 2
+Today is tuesday 
+Month is July 
+year is 2022
 
-Lnt in Mahape
+It is raining heavely
+
+it is not 
+
+
